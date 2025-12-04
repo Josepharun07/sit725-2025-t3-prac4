@@ -1,0 +1,20 @@
+.navbar-size {
+width: 95%;
+margin: 0 auto;
+}
+.user-image-size{
+height: 40px; 
+width: 40px; 
+border-radius: 50%; 
+object-fit: cover; 
+}
+.main-body {
+background-color: #ffffff;
+color: rgb(0, 0, 0);
+height: calc(100vh - 64px);
+}
+
+.click-me-button {
+background-color: #000000;
+margin-top: 50px;
+}

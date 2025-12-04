@@ -1,0 +1,25 @@
+{
+  "name": "3.2p",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Josepharun07/SIT725_s225280333#readme",
+  "bugs": {
+    "url": "https://github.com/Josepharun07/SIT725_s225280333/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josepharun07/SIT725_s225280333.git"
+  },
+  "license": "MIT",
+  "author": "Arun Joseph",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0"
+  }
+}
